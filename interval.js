@@ -12,4 +12,5 @@ setInterval(()=>{
     if(index == names.length){
         index  = 0;
     }
-},1000)
+},1000) //It willll run lifetime
+
